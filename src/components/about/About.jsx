@@ -26,7 +26,7 @@ const About = () => {
               </p>
 
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>1+ Years Working</small>
             </article>
 
             <article className="about__card">
@@ -35,7 +35,7 @@ const About = () => {
               </p>
 
               <h5>Clients</h5>
-              <small>300+ Clients Worlwide</small>
+              <small>Started Fresh</small>
             </article>
 
             <article className="about__card">
@@ -43,16 +43,12 @@ const About = () => {
                 <TbFolders />
               </p>
               <h5>Projects</h5>
-              <small>80+ Completed project</small>
+              <small>20+ Completed project</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet
-            natus distinctio magnam dolores, accusamus nisi nulla ea blanditiis
-            facilis culpa cupiditate at ipsa quasi veritatis modi maxime
-            voluptate voluptates iusto quae a. Nesciunt fuga beatae fugit? Nihil
-            adipisci itaque saepe!
+          Dynamic fresher with a passion for Full Stack development and programming language. With an impressive track record of 20+ successfully completed projects, I expertise in Full Stack Web Development and also various programming language. Eager to take on new challenges and deliver innovative solutions.
           </p>
 
           <a href="#contact" className="btn btn-primary">

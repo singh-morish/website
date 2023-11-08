@@ -10,33 +10,45 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Frontend Development</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>HTML / CSS proficiency</p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Javascript Proficiency</p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Responsive Design</p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Cross Browser Compatibility</p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Accessibility to all users</p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Using Github for Version Control</p>
+            </li>
+            <li>
+              <AiOutlineCheck  className='service__list-icon'/>
+              <p>Good Communication through the Project</p>
+            </li>
+            <li>
+              <AiOutlineCheck  className='service__list-icon'/>
+              <p>Taking Care of Security Problem</p>
+            </li>
+            <li>
+              <AiOutlineCheck  className='service__list-icon'/>
+              <p>Legal and Ethical Consideration</p>
             </li>
           </ul>
         </article>
@@ -45,37 +57,45 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Web Developments</h3>
+            <h3>Backend Development</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Use of Server Side Language like Node and Python</p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Use of MySQL and MongoDB for Database Management </p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Create robust APIs for Communication </p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Authentication and Authorization</p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Data Security to avoid security vulnerabilites</p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Asynchoronus Programming</p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Testing and Debugging</p>
+            </li>
+            <li>
+              <AiOutlineCheck  className='service__list-icon'/>
+              <p>Continuous Integration / Continuous Deployment</p>
+            </li>
+            <li>
+              <AiOutlineCheck  className='service__list-icon'/>
+              <p>Compilance and Legal Consideration</p>
             </li>
           </ul>
         </article>
@@ -83,33 +103,45 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Content Creations</h3>
+            <h3>Programming Language</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Expertise in Multiple Language</p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Understanding of Language EcoSystem</p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Client centric Approach</p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Code Quality and Best Practices</p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Version control and Collaboration</p>
             </li>
             <li>
               <AiOutlineCheck  className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Testing and Quality Assurance</p>
+            </li>
+            <li>
+              <AiOutlineCheck  className='service__list-icon'/>
+              <p>Performance Optimization</p>
+            </li>
+            <li>
+              <AiOutlineCheck  className='service__list-icon'/>
+              <p>Consultation and Training</p>
+            </li>
+            <li>
+              <AiOutlineCheck  className='service__list-icon'/>
+              <p>Monitoring and Maintenance</p>
             </li>
           </ul>
         </article>
